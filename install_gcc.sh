@@ -3,6 +3,14 @@
 # Update package lists
 sudo apt update
 
+sudo apt update
+
+# Install Vim
+sudo apt install vim
+
+# Print installation success message
+echo "Vi editor (Vim) installed successfully."
+
 # Install build-essential (which includes GCC)
 sudo apt install build-essential
 
